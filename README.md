@@ -1,69 +1,72 @@
-## Your Name
+## Ayoub El-hamdoon
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+**Who I am**
+As a driven and innovative problem solver with a proven track record in learning and applying technical skills, I am confident in my ability to excel in a Junior Software Developer role. My 4 years of experience working at Littlediode Ltd have sharpened my communication, decision making, and collaboration skills. My participation in the Makers Academy coding bootcamp demonstrates my commitment to continuous learning and self-improvement. Additionally, my certifications in Python and AWS illustrate my dedication to the development of my technical skills. 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description       | Tech/tools        | Link        |
+| ---------------------------- | ----------------- | ----------------- | -------------|
+| **Student directory** | A terminal app to manage students enrolled into 'Villains Academy' | Ruby  | [student-directory ](https://github.com/aze5/student-directory)                 |
+|**Symchecker**| A program to iterate through a directory and find symlinks| Python | [symchecker](https://github.com/aze5/symchecker)
+|TBC|
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+**Littlediode ltd** (July 2018 to August 2022)  
+_Office Administrator_
+Littlediode is a small online company that ships obsolete electronic components to
+consumers worldwide.
+- Utilized Python programming to enhance business processes through automation of day-to-day tasks
+- Debugged complex VBA scripts by experimenting and utilizing online AI tools, despite limited prior knowledge of the language
+- Streamlined bookkeeping by transitioning from paper to digital expense invoicing records, ensuring compliance with tax and accounting regulations
+- Provided technical support to clients by locating replacements for unreadable/unlabeled components using datasheets to match electrical and physical specifications.
+- Managed procurement of electronic components from both Europe and China.
+- Assisted customers with their inquiries and concerns through both phone and email communication.
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+#### Communication skills
+ My experience working as an Office Administrator at Littlediode Ltd refined my communication skills. My duties included regular, direct communication with clients over the phone and email. During weekly meetings, I was able to effectively convey technical changes and ideas to a diverse group of individuals, adapting my delivery style to cater to different levels of understanding. My strong communication skills have also proven invaluable during my training as a software developer. For example, while pair programming during my time at Makers Academy, I was able to effectively communicate my thought process and collaborate with my partner to achieve our goals. My strong communication skills, combined with my passion for problem-solving and technical abilities, make me a valuable asset in any team.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+#### Leadership experience
+I have a strong leadership background, honed from my experience as a martial arts teacher for children aged 5-13. In this role, I quickly realized that taking an authoritarian approach with the class was not the most effective way to lead. Instead, I decided to lead by example, demonstrating each move and inspiring the children to give their best efforts. My approach paid off, as I received positive feedback from the parents and the children were eager to participate in every class. This experience highlights my ability to effectively lead and motivate individuals towards a common goal.
 
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
+#### Adept learner
+I am an exceptional learner, with the ability to quickly grasp new concepts and apply them to practical solutions. This was demonstrated in September 2020, when I first began teaching myself how to code. My boss at Littlediode was impressed by my progress and asked me to write a program that would automate certain tasks and increase efficiency. To complete this task, I had to learn several new concepts, including SQL basics, working with CSV files, and the Python OS library. The program I wrote was a success, saving my boss hours of time and showcasing my aptitude for learning and problem-solving. I believe my ability to quickly learn new concepts and apply them to practical solutions will serve me well in my future role as a Junior Software Developer, due to the fast paced and constantly evolving nature of the industry.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (January 2023 to end_date)
+- TBC
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Glyn school (September 2013 to May 2018)
+GCSEs:
+Mathematics: Grade 7
+Chemistry: Grade 7
+Biology: Grade 6
+Physics: Grade 6
+Physical Education: Grade 5
+English: Grade 5
+Religious Studies: Grade B
+Sociology: Grade B.
 
-#### Any other qualifications
+#### Certifications and Courses
+###### Certifications:
+- Python Institute Certified Entry Level Python Programmer.
+- AWS Certified Cloud Practitioner.
 
-That in some arguable way make you a better software developer or well-rounded person
+###### Courses:
+- AWS Certified Cloud Practitioner Exam Training by Digital Cloud Training
+- Data Structures and Algorithms by Codecademy
+- Learn SQL by Codecademy
+- Learn Python 3 by Codecademy
+- Learn Ruby by Codecademy
 
-## Hobbies
+## Hobbies and Interests
+- Chess 
+- Martial arts
+- Electronic hobbyist
 
-Any cool stuff that makes you a super part of a software development team
+
