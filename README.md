@@ -1,6 +1,7 @@
 ## Ayoub El-hamdoon
 
 **Who I am**
+
 As a driven and innovative problem solver with a proven track record in learning and applying technical skills, I am confident in my ability to excel in a Junior Software Developer role. My 4 years of experience working at Littlediode Ltd have sharpened my communication, decision making, and collaboration skills. My participation in the Makers Academy coding bootcamp demonstrates my commitment to continuous learning and self-improvement. Additionally, my certifications in Python and AWS illustrate my dedication to the development of my technical skills. 
 
 ## Projects
