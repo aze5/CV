@@ -51,13 +51,21 @@ I am an exceptional learner, with the ability to quickly grasp new concepts and 
 #### Glyn school (September 2013 to May 2018)
 
 GCSEs:
+
 Mathematics: Grade 7
+
 Chemistry: Grade 7
+
 Biology: Grade 6
+
 Physics: Grade 6
+
 Physical Education: Grade 5
+
 English: Grade 5
+
 Religious Studies: Grade B
+
 Sociology: Grade B.
 
 #### Certifications and Courses
