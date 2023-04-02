@@ -75,21 +75,14 @@ Makers Academy is a highly selective 16-week intensive coding bootcamp that prep
 
 GCSEs:
 
-Mathematics: Grade 7
-
-Chemistry: Grade 7
-
-Biology: Grade 6
-
-Physics: Grade 6
-
-Physical Education: Grade 5
-
-English: Grade 5
-
-Religious Studies: Grade B
-
-Sociology: Grade B.
+- Mathematics: Grade 7
+- Chemistry: Grade 7 
+- Biology: Grade 6
+- Physics: Grade 6
+- Physical Education: Grade 5
+- English: Grade 5
+- Religious Studies: Grade B
+- Sociology: Grade B.
 
 
 ## Hobbies and Interests
