@@ -9,8 +9,6 @@ As a driven and innovative problem solver with a proven track record in learning
 
 | Name                         | Description       | Tech/tools        | Link        |
 | ---------------------------- | ----------------- | ----------------- | -------------|
-| **Student directory** | A terminal app to manage students enrolled into 'Villains Academy' | Ruby  | [student-directory ](https://github.com/aze5/student-directory)                 |
-|**Symchecker**| A program to iterate through a directory and find symlinks| Python | [symchecker](https://github.com/aze5/symchecker)
 |TBC|
 
 ## Work Experience
@@ -39,13 +37,38 @@ I have a strong leadership background, honed from my experience as a martial art
 
 #### Adept learner
 
-I am an exceptional learner, with the ability to quickly grasp new concepts and apply them to practical solutions. This was demonstrated in September 2020, when I first began teaching myself how to code. My boss at Littlediode was impressed by my progress and asked me to write a program that would automate certain tasks and increase efficiency. To complete this task, I had to learn several new concepts, including SQL basics, working with CSV files, and the Python OS library. The program I wrote was a success, saving my boss hours of time and showcasing my aptitude for learning and problem-solving. I believe my ability to quickly learn new concepts and apply them to practical solutions will serve me well in my future role as a Junior Software Developer, due to the fast paced and constantly evolving nature of the industry.
+I am an exceptional learner, with the ability to quickly grasp new concepts and apply them to practical solutions. This was demonstrated in September 2020, when I first began teaching myself how to code. My manager at Littlediode was impressed by my progress and asked me to write a program that would automate certain tasks and increase efficiency. To complete this task, I had to learn several new concepts, including SQL basics, working with CSV files, and the Python OS library. The program I wrote was a success, saving my manager hours of time and showcasing my aptitude for learning and problem-solving. I believe my ability to quickly learn new concepts and apply them to practical solutions will serve me well in my future role as a Junior Software Developer, due to the fast paced and constantly evolving nature of the industry.
 
 ## Education
 
 #### Makers Academy (January 2023 to end_date)
 
-- TBC
+Makers Academy is a highly selective 16-week intensive coding bootcamp that prepares students for careers in software development. During my time at Makers Academy, I gained experience in:
+
+- Object-oriented programming (OOP) principles and design patterns
+- Test-driven development (TDD) and behavior-driven development (BDD) using RSpec and Jest
+- Building web applications using Ruby, JavaScript, HTML, and CSS
+- Making HTTP requests to external APIs 
+- Working with databases, specifically Postgres
+- Using Git for version control and collaborating with team members
+- Command-line tools like Bash for managing files and directories, automating tasks, and interacting with Git
+- Agile development methodologies and pair programming techniques
+
+
+#### Certifications and Courses
+
+###### Certifications:
+
+- Python Institute Certified Entry Level Python Programmer.
+- AWS Certified Cloud Practitioner.
+
+###### Courses:
+
+- AWS Certified Cloud Practitioner Exam Training by Digital Cloud Training
+- Data Structures and Algorithms by Codecademy
+- Learn SQL by Codecademy
+- Learn Python 3 by Codecademy
+- Learn Ruby by Codecademy
 
 
 #### Glyn school (September 2013 to May 2018)
@@ -68,20 +91,6 @@ Religious Studies: Grade B
 
 Sociology: Grade B.
 
-#### Certifications and Courses
-
-###### Certifications:
-
-- Python Institute Certified Entry Level Python Programmer.
-- AWS Certified Cloud Practitioner.
-
-###### Courses:
-
-- AWS Certified Cloud Practitioner Exam Training by Digital Cloud Training
-- Data Structures and Algorithms by Codecademy
-- Learn SQL by Codecademy
-- Learn Python 3 by Codecademy
-- Learn Ruby by Codecademy
 
 ## Hobbies and Interests
 
