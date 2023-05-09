@@ -12,7 +12,8 @@ As a driven and innovative problem solver with a proven track record in learning
 |HackerRoom| Makers Academy final project. An interactive Python learning tool. | JSX, CSS, HTML, Express & Codemirror| [HackerRoom](https://github.com/samuelbadru/HackerRoom)
 |CodePen Clone | A web app allowing users to write HTML, CSS, and JavaScript code and see the output in real time. | React, @uiw/react-codemirror | [CodePen Clone](https://github.com/aze5/codepen-clone)
 |Chitter | A simple Ruby web app that acts as a Twitter clone.| Ruby, Rspec, Sinatra, HTML and ERB | [Chitter](https://github.com/aze5/chitter-challenge)
-| Symchecker | Python application that checks a file system for symlinks and adds data to an SQL database accordingly. | python, pymysql | [SymChecker](https://github.com/aze5/symchecker)
+| Symchecker | Python application that checks a file system for symlinks and adds data to an SQL database accordingly. | python, pymysql | [SymChecker](https://github.com/aze5/symchecker)|
+|Shop Manager Challenge| A terminal program that allows a shop manager to manage a shop database containing items and orders. | Ruby, RSpec|[Shop Manager](https://github.com/aze5/shop-manager-challenge)
 
 ## Work Experience
 
@@ -51,7 +52,7 @@ Makers Academy is a highly selective 16-week intensive coding bootcamp that prep
 - Object-oriented programming (OOP) principles and design patterns
 - Test-driven development (TDD) and behavior-driven development (BDD) using RSpec, Jest and Cypress
 - Building web applications using React, JavaScript, HTML, and CSS. 
-- Building web applications using Ruby and Sinatra.
+- Building web applications using Ruby, ERB and Sinatra.
 - Making HTTP requests to external APIs 
 - Working with databases, specifically Postgres
 - Using Git for version control and collaborating with team members
