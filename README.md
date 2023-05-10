@@ -10,6 +10,7 @@ As a driven and innovative problem solver with a proven track record in learning
 | Name                         | Description       | Tech/tools        | Link to Code |
 | ---------------------------- | ----------------- | ----------------- | --------------- |
 |HackerRoom| Makers Academy final project. An interactive Python learning tool. | JSX, CSS, HTML, Express & Codemirror| [HackerRoom](https://github.com/samuelbadru/HackerRoom)
+|Acebook| A Facebook clone, where users can create a written post with photos, comment on posts, add a profile image, and like other posts and comments | MongoDB, Express, React, Node.js, Bootstrap, Jest, Cypress | [Acebook](https://github.com/sarahdavies186/acebook-water)
 |CodePen Clone | A web app allowing users to write HTML, CSS, and JavaScript code and see the output in real time. | React, @uiw/react-codemirror | [CodePen Clone](https://github.com/aze5/codepen-clone)
 |Chitter | A simple Ruby web app that acts as a Twitter clone.| Ruby, Rspec, Sinatra, HTML and ERB | [Chitter](https://github.com/aze5/chitter-challenge)
 | Symchecker | Python application that checks a file system for symlinks and adds data to an SQL database accordingly. | python, pymysql | [SymChecker](https://github.com/aze5/symchecker)|
