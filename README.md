@@ -1,7 +1,7 @@
 ## Ayoub El-hamdoon
 
 
-**Who I am**
+**Profile**
 
 As a driven and innovative problem solver with a proven track record in learning and applying technical skills, I am confident in my ability to excel in a Junior Software Developer role. My 4 years of experience working at Littlediode Ltd have sharpened my communication, decision making, and collaboration skills. My participation in the Makers Academy coding bootcamp demonstrates my commitment to continuous learning and self-improvement. Additionally, my certifications in Python and AWS illustrate my dedication to the development of my technical skills. 
 
@@ -18,8 +18,8 @@ As a driven and innovative problem solver with a proven track record in learning
 
 ## Work Experience
 
-**Littlediode ltd** (July 2018 to August 2022)  
-_Office Administrator_
+**Littlediode ltd** (January 2020 to August 2022)  
+_Technical Support Specialist_
 
 Littlediode is a small online company that ships obsolete electronic components to
 consumers worldwide.
@@ -38,7 +38,7 @@ consumers worldwide.
 
 #### Leadership experience
 
-I have a strong leadership background, honed from my experience as a martial arts teacher for children aged 5-13. In this role, I quickly realized that taking an authoritarian approach with the class was not the most effective way to lead. Instead, I decided to lead by example, demonstrating each move and inspiring the children to give their best efforts. My approach paid off, as I received positive feedback from the parents and the children were eager to participate in every class. This experience highlights my ability to effectively lead and motivate individuals towards a common goal.
+I have a strong leadership background, honed from my experience as a martial arts teacher for children aged 5-13. In this role, I quickly realized that taking an authoritarian approach with the class was not the most effective way to lead. Instead, I decided to lead by example, demonstrating each move and inspiring the children to give their best efforts. My approach paid off, as I received positive feedback from the parents and the children were eager to participate in every class.
 
 #### Adept learner
 
@@ -46,19 +46,19 @@ I am an exceptional learner, with the ability to quickly grasp new concepts and 
 
 ## Education
 
-#### Makers Academy (January 2023 to end_date)
+#### Makers Academy (January 2023 to May 2023)
 
 Makers Academy is a highly selective 16-week intensive coding bootcamp that prepares students for careers in software development. During my time at Makers Academy, I gained experience in:
 
+- EQ training in feedback, empathy, and teamwork in a technical environment
 - Object-oriented programming (OOP) principles and design patterns
-- Test-driven development (TDD) and behavior-driven development (BDD) using RSpec, Jest and Cypress
-- Building web applications using React, JavaScript, HTML, and CSS. 
-- Building web applications using Ruby, ERB and Sinatra.
-- Making HTTP requests to external APIs 
-- Working with databases, specifically Postgres
-- Using Git for version control and collaborating with team members
+- TDD and BDD using RSpec, Jest and Cypress
+- Building web applications using React, JavaScript, HTML, and CSS.
+- Working with databases, specifically Postgres and MongoDB
+- REST APIs
 - Command-line tools like Bash for managing files and directories, automating tasks, and interacting with Git
-- Agile development methodologies and pair programming techniques
+- Agile development methodologies using Jira and pair programming techniques
+
 
 
 #### Certifications and Courses
@@ -76,8 +76,13 @@ Makers Academy is a highly selective 16-week intensive coding bootcamp that prep
 - Learn Python 3 by Codecademy
 - Learn Ruby by Codecademy
 
+#### Richmond College (2018 - 2019)
+ Level 3 Engineering:
+ - Mechanical Engineering
+ - Electrical Engineering
 
-#### Glyn school (September 2013 to May 2018)
+
+#### Glyn School (2013 to 2018)
 
 GCSEs:
 
@@ -93,8 +98,8 @@ GCSEs:
 
 ## Hobbies and Interests
 
-- Chess 
-- Martial arts
-- Electronic hobbyist
+- Chess: Looking at opening strategies, common patterns and specifically playing blitz games.
+- Writing: Writing about philosophical and theological theories and ideologies.
+- Basketball: Playing pickup games with friends, as well as mini-games like “King of the Court” or “21”
 
 
